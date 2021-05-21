@@ -1,0 +1,18 @@
+### ------------ Requirements for using eedm ------------ ###
+
+# For eedm
+python == 3.6.8
+matplotlib == 3.0.3
+numpy
+scipy
+sympy
+pandas
+qutip
+pickle
+gzip
+datetime
+
+# For jupyter notebook users
+jupyter
+notebook
+jupyter_contrib_nbextensions == 0.5.0
